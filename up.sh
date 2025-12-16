@@ -1,4 +1,5 @@
 #!/bin/bash
+git add switch.cfg
 git add index.html
 git add script.sh
 git add README.md
